@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-   <img style="border-radius:20px;" src="https://imgur.com/AFBMiBc.gift" alt="gift_text" />
+   <img style="border-radius:20px;height:250px;" src="https://imgur.com/AFBMiBc.gift" alt="gift_text" />
   <br>
 </h1>
 <div align="center">
