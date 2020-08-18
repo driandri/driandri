@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-   <img src="https://imgur.com/7Br9QOS.gift" alt="gift_text" />
+   <img src="https://imgur.com/AFBMiBc.gift" alt="gift_text" />
   <br>
 </h1>
 <div align="center">
