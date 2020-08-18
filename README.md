@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-   <p>hei there 👋</p>
+   <img style="border-radius:20px;" src="https://imgur.com/AFBMiBc.gift" alt="gift_text" />
   <br>
 </h1>
 <div align="center">
