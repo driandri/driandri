@@ -17,7 +17,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=driandri&layout=compact&theme=dark">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=driandri&theme=dark&hide_border=true" width="400">
-    <img src="https://github-readme-stats.vercel.app/api?username=driandri&show_icons=true&theme=bear" width="400">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=driandri&show_icons=true&theme=bear" width="400"> -->
 </p>
 
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/d2947a0d936282fe76e8d267832606168bc273e5/github-snake-dark.svg) 
